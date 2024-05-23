@@ -6,5 +6,9 @@ TASK 1 - LANDING PAGE
 
 TASK 2 - PORTFOLIO
 
+https://manoj-512.github.io/OIBSIP/Task%202
 
 TASK 3 - TEMPARATURE CONVERTER
+
+https://manoj-512.github.io/OIBSIP/Task%203
+
